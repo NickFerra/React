@@ -5,6 +5,7 @@ import B from "./B.jpg";
 import C from "./C.jpg";
 import D from "./D.jpg";
 import E from "./E.jpg";
+import F from "./F.jpg";
 
 function App() {
   return (
@@ -15,6 +16,9 @@ function App() {
         <Article alph="C" image={C} />
         <Article alph="D" image={D} />
         <Article alph="E" image={E} />
+      </div>
+      <div className="boxHold2">
+      <Article alph="F" image={F} />
       </div>
     </div>
   );

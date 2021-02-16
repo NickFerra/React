@@ -1,9 +1,11 @@
 const Article1 = (props) => {
   return (
-    <div className="imageText">
-      <img src={props.image} className="letters" alt="letter image" />
+    <div>
+      <div className="imageText">
+        <img src={props.image} className="letters" alt="letter image" />
 
-      <p>Here is letter {props.alph}</p>
+        <p>Here is letter {props.alph}</p>
+      </div>
     </div>
   );
 };
