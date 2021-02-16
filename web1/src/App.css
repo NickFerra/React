@@ -2,7 +2,7 @@
     background-color: grey;
     display: flex;
     flex-direction: row;
-
+    justify-content: center;
 }
 .imageText{
     height: 100px;

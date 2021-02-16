@@ -1,5 +1,5 @@
 import "./App.css";
-import Article from "./components/Article.js";
+import Article from "./components/Article1.js";
 import A from "./A.jpg";
 import B from "./B.jpg";
 import C from "./C.jpg";

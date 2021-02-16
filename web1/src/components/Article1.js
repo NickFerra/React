@@ -1,4 +1,4 @@
-const Article = (props) => {
+const Article1 = (props) => {
   return (
     <div className="imageText">
       <img src={props.image} className="letters" alt="letter image" />
@@ -8,4 +8,4 @@ const Article = (props) => {
   );
 };
 
-export default Article;
+export default Article1;
