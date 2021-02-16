@@ -1,7 +1,5 @@
 .boxHold{
     background-color: grey;
-    width: 10em;
-    height: 10em;
     display: flex;
     flex-direction: row;
 
