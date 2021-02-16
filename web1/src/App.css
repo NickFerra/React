@@ -1,0 +1,13 @@
+.boxHold{
+    background-color: grey;
+    width: 10em;
+    height: 10em;
+    display: flex;
+    flex-direction: row;
+    
+}
+.image{
+    height: 100px;
+    width: 100px;
+
+}
